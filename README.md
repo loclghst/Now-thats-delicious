@@ -1,7 +1,5 @@
 ## What is this?
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/spences10/dang-thats-delicious.svg)](https://greenkeeper.io/)
-
 Just you wait folks!
 
 ## Sample Data
